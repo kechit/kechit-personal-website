@@ -13,21 +13,20 @@
       "url": "https://twitter.com/kechit"
     },
     {
-      "type": "github",
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/kechit"
-    },
-    {
       "type": "instagram",
       "title": "Stackoverflow",
-      "icon": "fa-stackoverflow",
+      "icon": "fa-stack-overflow",
       "url": "https://stackoverflow.com/users/2435228/kechit-goyal"
     },
     {
       "title": "Quora",
       "icon": "fa-quora",
       "url": "https://www.quora.com/profile/Kechit-Goyal"
+    },
+    {
+      "title": "StackOverflow",
+      "icon": "fa-stack-overflow",
+      "url": "https://stackoverflow.com/users/2435228/kechit-goyal"
     }
   ]
 }
